@@ -104,5 +104,3 @@ def main():
 
 
 main()
-
-#test push with a new SSH-key
